@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wallet-balance-checker/static/css/main.6ccd65a8.css",
+    "main.js": "/wallet-balance-checker/static/js/main.51667272.js",
+    "static/js/787.3f4ca670.chunk.js": "/wallet-balance-checker/static/js/787.3f4ca670.chunk.js",
+    "index.html": "/wallet-balance-checker/index.html",
+    "main.6ccd65a8.css.map": "/wallet-balance-checker/static/css/main.6ccd65a8.css.map",
+    "main.51667272.js.map": "/wallet-balance-checker/static/js/main.51667272.js.map",
+    "787.3f4ca670.chunk.js.map": "/wallet-balance-checker/static/js/787.3f4ca670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.51667272.js"
+  ]
+}
